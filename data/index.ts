@@ -84,7 +84,7 @@ export const projects = [
         des: " An online platform that provides comprehensive guidance and recommendations to help travelers plan their trips.",
         img: "Screenshot 2024-06-29 185802.png",
         iconLists: ["/re.svg", "/tail.svg", "/ts.svg",],
-        link: "/ui.aiimg.com",
+        link: "https://travel-app-seven-weld.vercel.app/",
     },
     {
         id: 3,
