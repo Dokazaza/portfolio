@@ -13,7 +13,7 @@ function PricingCards() {
                     <div className="mb-10 text-center">
                         <p className="text-gray-400">Standard Site</p>
                         <h2 className="text-white font-bold lg:text-3xl md:text-2xl text-base line-clamp-1">
-                            2000€
+                            1500€
                         </h2>
                     </div>
                     <ul className="text-gray-400 space-y-4">
@@ -24,7 +24,7 @@ function PricingCards() {
                                       d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-10.293a1 1 0 00-1.414-1.414L9 9.586 7.707 8.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
                                       clip-rule="evenodd"></path>
                             </svg>
-                            2000 min. Up Front Cost
+                            1500 min. Up Front Cost
                         </li>
                         <li className="flex items-center">
                             <svg className="w-6 h-6 text-green-500 mr-2" fill="currentColor" viewBox="0 0 20 20"
@@ -33,7 +33,7 @@ function PricingCards() {
                                       d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-10.293a1 1 0 00-1.414-1.414L9 9.586 7.707 8.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
                                       clip-rule="evenodd"></path>
                             </svg>
-                            Includes Hosting
+                            Speed and Performance Optimization
                         </li>
                         <li className="flex items-center">
                             <svg className="w-6 h-6 text-green-500 mr-2" fill="currentColor" viewBox="0 0 20 20"
@@ -42,7 +42,7 @@ function PricingCards() {
                                       d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-10.293a1 1 0 00-1.414-1.414L9 9.586 7.707 8.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
                                       clip-rule="evenodd"></path>
                             </svg>
-                            Mobile Responsive
+                            Responsive and Mobile-Optimized
                         </li>
                         <li className="flex items-center">
                             <svg className="w-6 h-6 text-green-500 mr-2" fill="currentColor" viewBox="0 0 20 20"
@@ -51,7 +51,7 @@ function PricingCards() {
                                       d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-10.293a1 1 0 00-1.414-1.414L9 9.586 7.707 8.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
                                       clip-rule="evenodd"></path>
                             </svg>
-                            Custom Designed
+                            Custom Design
                         </li>
                     </ul>
 
